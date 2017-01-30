@@ -14,6 +14,6 @@ $.getJSON("data.json", function(jData) {
         output += '</div>'; // card content
         output += '</article>'; // card-container
     });
-    output += '</div>';
+    output += '</div>'; // var output
     $('#update').html(output);
 });
