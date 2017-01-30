@@ -1,0 +1,54 @@
+[
+{
+  "name":"královna noci",
+  "material":"silver",
+  "stone":"zirkon",
+  "cover":"kralovna_noci",
+  "gallery":[
+    "imgName-1",
+    "imgName-2"],
+  "description":"some short text about item",
+  "date":"august 2015",
+  "link":"url",
+  "featured":false
+},
+{
+  "name":"odkaz otců",
+  "material":"gold",
+  "stone":"emerald",
+  "cover":"odkaz_otcu",
+  "gallery":[
+    "imgName-1",
+    "imgName-2"],
+  "description":"some short text about item",
+  "date":"february 2016",
+  "link":"url",
+  "featured":false
+},
+{
+  "name":"strážce srdce",
+  "material":["silver","gold"],
+  "stone":"amethyst",
+  "cover":"strazce_srdce",
+  "gallery":[
+    "imgName-1",
+    "imgName-2"],
+  "description":"some short text about item",
+  "date":"june 2017",
+  "link":"url",
+  "featured":false
+},
+{
+  "name":"hrozny dionýsovy",
+  "material":"gold",
+  "stone":"aquamarine",
+  "cover": "hrozny_dionysovy",
+  "gallery":[
+    "imgName-1",
+    "imgName-2"],
+  "description":"some short text about item",
+  "date":"march 2017",
+  "link":"url",
+  "featured":false
+}
+]
